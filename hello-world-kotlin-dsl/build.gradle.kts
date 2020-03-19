@@ -1,7 +1,7 @@
 plugins {
     java
     groovy
-    id("com.github.ngyewch.gradle-fjage-plugin") version "0.2.0"
+    id("com.github.ngyewch.gradle-fjage-plugin") version "0.4.0"
 }
 
 repositories {
